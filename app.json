@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rocket_help",
+    "slug": "rocket_help",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
